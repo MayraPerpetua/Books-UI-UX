@@ -24,7 +24,7 @@ Livrinhos, blogs e materiais para estudos de UI/UX Design
 [Leis da Psicologia Aplicadas a UX]: <https://www.amazon.com.br/dp/6586057256/?coliid=I149R20FI34YDB&colid=2RM0P81IS5EZO&psc=1&ref_=lv_ov_lig_dp_it_im>
 [Redação Estratégica Para UX]: <https://www.amazon.com.br/dp/8575228129/?coliid=I9MQUGKHIZNBF&colid=2RM0P81IS5EZO&psc=1&ref_=lv_ov_lig_dp_it>
 [Não me faça pensar]: <https://www.amazon.com.br/dp/8576088509/?coliid=I3IPSD7DRXSC3K&colid=2RM0P81IS5EZO&psc=1&ref_=lv_ov_lig_dp_it>
-[ Sandra Ribeiro Cameira]: <https://www.amazon.com.br/dp/8539611392/?coliid=I1VK2QZZ6LDMCV&colid=2RM0P81IS5EZO&psc=1&ref_=lv_ov_lig_dp_it>
+[Branding + design]: <https://www.amazon.com.br/dp/8539611392/?coliid=I1VK2QZZ6LDMCV&colid=2RM0P81IS5EZO&psc=1&ref_=lv_ov_lig_dp_it>
 [Avaliação Heurística de Interfaces]: <https://www.amazon.com.br/dp/6588680015/?coliid=I3TK5PHI9QRBAI&colid=2RM0P81IS5EZO&psc=1&ref_=lv_ov_lig_dp_it>
 
 #### Alguns Blogs:
