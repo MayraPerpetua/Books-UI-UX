@@ -12,6 +12,7 @@ Livrinhos, blogs e materiais para estudos de UI/UX Design
 * [Redação Estratégica Para UX] - Torrey Podmajersky
 * [Não me faça pensar] - Steve Krug
 * [Branding + design] -  Sandra Ribeiro Cameira
+* [Avaliação Heurística de Interfaces] - José Guilherme Santa Rosa, caroline De Oliveira Santa Rosa 
 
    [Design Do Dia a Dia]: <https://www.amazon.com.br/Design-do-Dia/dp/8532520839/ref=sr_1_1?adgrpid=80235345566&dchild=1&gclid=Cj0KCQjwlvT8BRDeARIsAACRFiWaTcd2nPT7GXH9jNg0uF0bZ3BufoudtHZK_q8VQl-D9bt58Le6EY0aAmgMEALw_wcB&hvadid=425982624205&hvdev=c&hvlocphy=1031783&hvnetw=g&hvqmt=e&hvrand=1481435250046052024&hvtargid=kwd-856346056465&hydadcr=5629_11235159&keywords=design+do+dia-a-dia&qid=1604190635&sr=8-1&tag=hydrbrgk-20>
    [Design Emocional]: <https://www.amazon.com.br/Design-Emocional-Donald-Norman/dp/8532523323/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=DEsign+emocional&qid=1604190773&sr=8-1>
@@ -24,6 +25,7 @@ Livrinhos, blogs e materiais para estudos de UI/UX Design
 [Redação Estratégica Para UX]: <https://www.amazon.com.br/dp/8575228129/?coliid=I9MQUGKHIZNBF&colid=2RM0P81IS5EZO&psc=1&ref_=lv_ov_lig_dp_it>
 [Não me faça pensar]: <https://www.amazon.com.br/dp/8576088509/?coliid=I3IPSD7DRXSC3K&colid=2RM0P81IS5EZO&psc=1&ref_=lv_ov_lig_dp_it>
 [ Sandra Ribeiro Cameira]: <https://www.amazon.com.br/dp/8539611392/?coliid=I1VK2QZZ6LDMCV&colid=2RM0P81IS5EZO&psc=1&ref_=lv_ov_lig_dp_it>
+[Avaliação Heurística de Interfaces]: <https://www.amazon.com.br/dp/6588680015/?coliid=I3TK5PHI9QRBAI&colid=2RM0P81IS5EZO&psc=1&ref_=lv_ov_lig_dp_it>
 
 #### Alguns Blogs:
 * [Ladies That UX]
