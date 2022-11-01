@@ -37,6 +37,7 @@ Livrinhos, blogs e materiais para estudos de UI/UX Design
 * [Desing Systems]
 * [UI Breakfast]
 * [Maker Stations]
+* [UX Planet]
 
    [Ladies That UX]: <https://www.ladiesthatux.com/>
    [UX Design Blog]: <https://uxdesign.blog.br/?gi=e1432c8e35aa>
@@ -48,3 +49,4 @@ Livrinhos, blogs e materiais para estudos de UI/UX Design
    [Design Systems]: <https://www.designsystems.com/>
    [UI Breakfast]: <https://uibreakfast.com/blog/>
    [Maker Stations]: <https://www.makerstations.io/>
+   [Ux Planet]: <https://uxplanet.org/>
