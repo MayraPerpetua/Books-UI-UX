@@ -42,6 +42,7 @@ Livrinhos, blogs e materiais para estudos de UI/UX Design
 * [NN/g Nilsen Norman Group]
 * [UX Matters]
 * [UX Mastery]
+* [UX Booth]
 
    [Ladies That UX]: <https://www.ladiesthatux.com/>
    [UX Design Blog]: <https://uxdesign.blog.br/?gi=e1432c8e35aa>
@@ -58,3 +59,4 @@ Livrinhos, blogs e materiais para estudos de UI/UX Design
    [NN/g Nilsen Norman Group]: <https://www.nngroup.com/articles/>
    [UX Matters]: <https://www.uxmatters.com/>
    [UX Mastery]: <https://uxmastery.com/>
+   [UX Booth]: <https://www.uxbooth.com/>
