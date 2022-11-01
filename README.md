@@ -34,7 +34,7 @@ Livrinhos, blogs e materiais para estudos de UI/UX Design
 * [UI/UX Gabriel Silvestre] 
 * [Learn UI Design] 
 * [UI Lab] 
-* [Desing Systems]
+* [Design Systems]
 * [UI Breakfast]
 * [Maker Stations]
 * [UX Planet]
