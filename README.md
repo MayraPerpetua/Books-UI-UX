@@ -39,6 +39,7 @@ Livrinhos, blogs e materiais para estudos de UI/UX Design
 * [Maker Stations]
 * [UX Planet]
 * [UX Movement]
+* [NN/g Nilsen Norman Group]
 
    [Ladies That UX]: <https://www.ladiesthatux.com/>
    [UX Design Blog]: <https://uxdesign.blog.br/?gi=e1432c8e35aa>
@@ -52,3 +53,4 @@ Livrinhos, blogs e materiais para estudos de UI/UX Design
    [Maker Stations]: <https://www.makerstations.io/>
    [UX Planet]: <https://uxplanet.org/>
    [UX Movement]: <https://uxmovement.com/>
+   [NN/g Nilsen Norman Group]: <https://www.nngroup.com/articles/>
